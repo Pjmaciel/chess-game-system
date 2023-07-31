@@ -1,9 +1,9 @@
-package Chess;
+package chess;
 
-import BoardGame.Board;
-import BoardGame.Position;
-import Chess.pieces.Rook;
-import Chess.pieces.king;
+import boardgame.Board;
+import boardgame.Position;
+import chess.pieces.Rook;
+import chess.pieces.king;
 
 public class ChessMatch {
 
